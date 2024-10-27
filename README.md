@@ -37,7 +37,7 @@
   <ul>
     <li>Backend: Node.js, Python</li>
     <li>Frontend: JavaScript, HTML, CSS</li>
-    <li>APIs: OpenAI API</li>
+    <li>APIs: Gemini API</li>
     <li>Database: Flask, Firebase</li>
   </ul>
 
